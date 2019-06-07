@@ -17,6 +17,44 @@ Main purpose of the BIMOS is to provide up-to-date testing environment for mobil
 virtualization environments
 BIMOS 1.0 uses XFCE desktop environment (Ubuntu) and based on elementary OS 5.0 Juno
 
+## What this BIMOS contains 
+
+- [android studio]
+- [adb]
+
+JD gui
+
+apktool
+ 
+Androbugs
+
+Frida
+
+Objection
+
+dex2jar
+
+drozer
+
+docker 
+
+needle 
+
+iproxy
+
+libmux
+
+Bytecodeviewer
+
+classy shark
+
+sqlitebrowser
+
+hopper
+
+## Download 
+
+
 ## How to contribute
 
 All contributions are welcome, from code to tool integration, to design suggestions, to bug reports. Please use GitHub to its fullest. Submit your requests, contribute tutorials or other wiki content. Whatever lucrative you offer, we will use it!
