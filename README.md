@@ -7,7 +7,7 @@
 ## Table of contents
 - [Introduction](#introduction)
 - [What this BIMOS contains?](#what-this-BIMOS-contains)
-- [Quick Installation](#quick-installation)
+- [Quick Installation](#Quick-installation)
 
 ## Introduction
 
@@ -36,7 +36,7 @@ BIMOS 1.0 uses XFCE desktop environment (Ubuntu) and based on elementary OS 5.0 
 - sqlitebrowser
 - hopper
 
-## quick-installation
+## Quick-installation
 
 BIMOS comes as an .ova file. Double click it and Virtual Box adds the VM automatically. BIMOS is pre-configured with 4 GB of Base Memory (RAM).
 
