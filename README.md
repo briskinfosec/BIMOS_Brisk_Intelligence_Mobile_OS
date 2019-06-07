@@ -6,7 +6,6 @@
 
 ## Table of contents
 - [Introduction](#introduction)
-- [What is BIMOS?](#why-bnpt_docker)
 - [What this BIMOS contains?](#what-this-docker-contains)
 - [Quick Installation](#quick-installation)
 
