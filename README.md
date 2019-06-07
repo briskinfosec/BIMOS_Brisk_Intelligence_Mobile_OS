@@ -1,6 +1,6 @@
 <p align="center">
 <img width="200" src="https://www.briskinfosec.com/themes/new_theme/user_template/images/resources/logo.png" /><br>
-<h1 align="center"> Docker for Network Penetration Testing </h1>
+<h1 align="center"> BIMOS Virtual Machine </h1>
 </p>
 
 
