@@ -19,41 +19,30 @@ BIMOS 1.0 uses XFCE desktop environment (Ubuntu) and based on elementary OS 5.0 
 
 ## What this BIMOS contains 
 
-- [android studio]
-- [adb]
+- android studio
+- adb
+- JD gui
+- apktool
+- Androbugs
+- Frida
+- Objection
+- dex2jar
+- drozer
+- docker 
+- needle 
+- iproxy
+- libmux
+- Bytecodeviewer
+- classy shark
+- sqlitebrowser
+- hopper
 
-JD gui
+## quick-installation
 
-apktool
- 
-Androbugs
+Use Virtual Box to import the OVA file and use it. 
 
-Frida
-
-Objection
-
-dex2jar
-
-drozer
-
-docker 
-
-needle 
-
-iproxy
-
-libmux
-
-Bytecodeviewer
-
-classy shark
-
-sqlitebrowser
-
-hopper
-
-## Download 
-
+### Download 
+Download BIMOS 1.0 from the link:
 
 ## How to contribute
 
