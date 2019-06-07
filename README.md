@@ -6,7 +6,7 @@
 
 ## Table of contents
 - [Introduction](#introduction)
-- [What this BIMOS contains?](#what-this-docker-contains)
+- [What this BIMOS contains?](#what-this-BIMOS-contains)
 - [Quick Installation](#quick-installation)
 
 ## Introduction
