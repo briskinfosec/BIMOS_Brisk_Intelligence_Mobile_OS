@@ -39,10 +39,17 @@ BIMOS 1.0 uses XFCE desktop environment (Ubuntu) and based on elementary OS 5.0 
 
 ## quick-installation
 
-Use Virtual Box to import the OVA file and use it. 
+BIMOS comes as an .ova file. Double click it and Virtual Box adds the VM automatically. BIMOS is pre-configured with 4 GB of Base Memory (RAM).
 
 ### Download 
 Download BIMOS 1.0 from the link:
+
+The credentials for BIMOS is :
+
+    Username: mob
+
+    Password: infosec
+
 
 ## How to contribute
 
