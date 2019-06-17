@@ -6,7 +6,7 @@
 
 ## Table of contents
 - [Introduction](#introduction)
-- [What does BIMOS contain?](#what-this-BIMOS-contains)
+- [What does BIMOS contain?](#what-this-BIMOS-contain)
 - [Quick Installation](#Quick-installation)
 
 ## Introduction
@@ -16,7 +16,7 @@ BIMOS was created to provide state-of-the-art testing environment for mobile sec
 virtualization environments
 BIMOS 1.0 uses XFCE desktop environment (Ubuntu) and based on elementary OS 5.0 Juno
 
-## What does BIMOS contains 
+## What does BIMOS contain 
 
 - android studio
 - adb
